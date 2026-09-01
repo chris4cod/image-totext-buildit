@@ -1,1 +1,4 @@
-
+pytesseract
+numpy 
+Flask
+Pillow
